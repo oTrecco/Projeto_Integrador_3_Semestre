@@ -15,7 +15,6 @@ DESENVOLVIMENTO DE SISTEMAS ORIENTADO A OBJETOS
 **Autores:**
 * André Trecco
 * Edward Mairene Ribeiro
-* Rafaela Correa Pastor
 * Vivian Barbosa Pinheiro
 
 ---
@@ -39,7 +38,7 @@ Enoque Felipe dos Santos Leal
 2. Descrição dos cenários dos casos de uso
 3. Diagrama de classe
 4. Protótipos
-5. Arquivo do Projeto no GitHub
+5. Projeto no GitHub
 
 ---
 
@@ -61,7 +60,7 @@ Enoque Felipe dos Santos Leal
 
 * **Atores Principais:** Secretária e Aluno.
 * **Pré-condição:** Ambos devem estar autenticados no sistema.
-* **Pós-condição:** O aluno é cadastrado com uma matrícula gerada automaticamente.
+* **Pós condição:** O aluno é cadastrado com uma matrícula gerada automaticamente.
 
 **Cenário Principal:**
 1.  Secretária ou Aluno acessa a função "Cadastrar Aluno" no sistema.
@@ -84,7 +83,7 @@ Enoque Felipe dos Santos Leal
 
 * **Atores Principais:** Secretária e Professor.
 * **Pré-condição:** Ambos devem estar autenticados no sistema.
-* **Pós-condição:** O professor é cadastrado e sua disciplina associada.
+* **Pós condição:** O professor é cadastrado e sua disciplina associada.
 
 **Cenário Principal:**
 1.  Secretária ou Professor acessa a opção "Cadastrar Professor".
@@ -106,7 +105,7 @@ Enoque Felipe dos Santos Leal
 
 * **Ator Principal:** Fornecedor.
 * **Pré-condição:** O fornecedor deve estar autenticado no sistema.
-* **Pós-condição:** O fornecedor é cadastrado junto aos seus produtos.
+* **Pós condição:** O fornecedor é cadastrado junto aos seus produtos.
 
 **Cenário Principal:**
 1.  Fornecedor acessa "Cadastrar Fornecedor".
@@ -160,6 +159,22 @@ Enoque Felipe dos Santos Leal
 ---
 
 ![Figura 2. Diagrama de Classes de Sistema de Cadastro de Universidade.](https://lucid.app/lucidchart/e03dbe29-88c3-488e-a2e4-ea9a64c4d8dc/edit?viewport_loc=-623%2C23%2C2558%2C1184%2C-gNnRRc.eFz5&invitationId=inv_903969aa-6a98-4e90-9e3f-6f6fa28d3767)
+
+---
+
+# 4. PROTÓTIPOS 
+
+---
+
+[Projeto no Figma - Grupo 20](https://www.figma.com/design/E6HVNxPDxHohZp4d2DOo45/PI---GRUPO-20?node-id=0-1&p=f&t=6lIRtq90Jy1qr3UA-0)
+
+---
+
+# 5. PROJETO NO GITHUB
+
+---
+
+[Repositório no GitHub - Projeto Integrador 3° Semestre](https://github.com/oTrecco/Projeto_Integrador_3_Semestre.git)
 
 ---
 
